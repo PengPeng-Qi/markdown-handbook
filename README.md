@@ -1,7 +1,4 @@
 # markdown-使用手册
-:kissing:Markdown 简明语法手册:kissing:
-
----
 ## <a name="index"/>目录
 * [标题](#title)
 * [文本](#text)
