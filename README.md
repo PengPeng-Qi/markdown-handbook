@@ -1,5 +1,7 @@
 # markdown-使用手册
->[Github——Markdown](https://guides.github.com/features/mastering-markdown/#examples)
+> * [Github——Markdown](https://guides.github.com/features/mastering-markdown/#examples)  
+> * 横线/分割线:```***```
+***
 ## <a name="index"/>目录
 * [标题](#title)
 * [文本](#text)
